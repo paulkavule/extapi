@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0844DB36-0C16-48C5-9F87-5B33F3FCB8A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtApi/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="ExtApi/Controllers/WeatherForecastController.cs" Line="43" Column="41" />
+      <File FileName="ExtApi/Connected Services/ThdApi/Reference.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExtApi" expanded="True">
+            <Node name="ExtApi" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tester FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ExtApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
