@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{0844DB36-0C16-48C5-9F87-5B33F3FCB8A2}|Default">
+﻿<Properties StartupConfiguration="{F4BD37BE-D2E8-44A3-AAE7-F988F199C966}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ExtApi/Controllers/WeatherForecastController.cs">
     <Files>
       <File FileName="ExtApi/Controllers/WeatherForecastController.cs" Line="43" Column="41" />
@@ -27,7 +27,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Tester FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Tester FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ExtApi PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
 </Properties>

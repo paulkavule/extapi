@@ -1,0 +1,15 @@
+/Users/pkavule/Desktop/logs/ExtApi/Tester/bin/Debug/net7.0/Tester
+/Users/pkavule/Desktop/logs/ExtApi/Tester/bin/Debug/net7.0/Tester.deps.json
+/Users/pkavule/Desktop/logs/ExtApi/Tester/bin/Debug/net7.0/Tester.runtimeconfig.json
+/Users/pkavule/Desktop/logs/ExtApi/Tester/bin/Debug/net7.0/Tester.dll
+/Users/pkavule/Desktop/logs/ExtApi/Tester/bin/Debug/net7.0/Tester.pdb
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/Tester.csproj.AssemblyReference.cache
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/Tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/Tester.AssemblyInfoInputs.cache
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/Tester.AssemblyInfo.cs
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/Tester.csproj.CoreCompileInputs.cache
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/Tester.dll
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/refint/Tester.dll
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/Tester.pdb
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/Tester.genruntimeconfig.cache
+/Users/pkavule/Desktop/logs/ExtApi/Tester/obj/Debug/net7.0/ref/Tester.dll
